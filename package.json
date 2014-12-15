@@ -1,0 +1,12 @@
+{
+  "name": "uppercase",
+  "version": "1.0.0",
+  "description": "Command-line utility for converting text to upper case",
+  "private": true,
+  "dependencies": {
+    "nomnom": "*"
+  },
+  "bin": {
+    "uppercase": "./index.js"
+  }
+}
